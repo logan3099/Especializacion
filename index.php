@@ -1,6 +1,6 @@
 <?php
 
-echo 'Ejemplo de Sensores';
+echo 'Ejemplo de Sensores subido a github';
         
         $link = mysql_connect("localhost", "root", "root");
         
