@@ -37,4 +37,5 @@ echo 'Otra contribucion 5';
 
  <?php
         echo 'Prueba 1';
+        echo 'Prueba 2';
  ?> 
