@@ -34,3 +34,7 @@ echo 'Otra contribucion 5';
         ?>  
         
 </table>
+
+ <?php
+        echo 'Prueba 1';
+ ?> 
