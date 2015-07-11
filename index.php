@@ -1,8 +1,9 @@
 <?php
 
 echo 'Ejemplo de Sensores subido a github segunda prueba';
-echo 'Otra contribucion';
-echo 'Otra contribucion';
+echo 'Otra contribucion 1';
+echo 'Otra contribucion 2';
+echo 'Otra contribucion 3';
         
         $link = mysql_connect("localhost", "root", "root");
         
