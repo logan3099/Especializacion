@@ -5,6 +5,7 @@ echo 'Otra contribucion 1';
 echo 'Otra contribucion 2';
 echo 'Otra contribucion 3';
 echo 'Otra contribucion 5';
+echo 'Otra contribucion 6';
         
         $link = mysql_connect("localhost", "root", "root");
         
